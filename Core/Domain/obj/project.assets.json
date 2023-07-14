@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Prog\\Projetos\\base-project-handler-service\\Core\\Domain\\Domain.csproj",
+      "projectUniqueName": "D:\\Prog\\Projetos\\dumbbell-health\\Core\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\Prog\\Projetos\\base-project-handler-service\\Core\\Domain\\Domain.csproj",
+      "projectPath": "D:\\Prog\\Projetos\\dumbbell-health\\Core\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "D:\\Prog\\Projetos\\base-project-handler-service\\Core\\Domain\\obj\\",
+      "outputPath": "D:\\Prog\\Projetos\\dumbbell-health\\Core\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",

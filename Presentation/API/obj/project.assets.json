@@ -10089,11 +10089,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Prog\\Projetos\\base-project-handler-service\\Presentation\\API\\API.csproj",
+      "projectUniqueName": "D:\\Prog\\Projetos\\dumbbell-health\\Presentation\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\Prog\\Projetos\\base-project-handler-service\\Presentation\\API\\API.csproj",
+      "projectPath": "D:\\Prog\\Projetos\\dumbbell-health\\Presentation\\API\\API.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "D:\\Prog\\Projetos\\base-project-handler-service\\Presentation\\API\\obj\\",
+      "outputPath": "D:\\Prog\\Projetos\\dumbbell-health\\Presentation\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10110,11 +10110,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Prog\\Projetos\\base-project-handler-service\\Application\\Application.csproj": {
-              "projectPath": "D:\\Prog\\Projetos\\base-project-handler-service\\Application\\Application.csproj"
+            "D:\\Prog\\Projetos\\dumbbell-health\\Application\\Application.csproj": {
+              "projectPath": "D:\\Prog\\Projetos\\dumbbell-health\\Application\\Application.csproj"
             },
-            "D:\\Prog\\Projetos\\base-project-handler-service\\Infra\\Persistence\\Persistence.csproj": {
-              "projectPath": "D:\\Prog\\Projetos\\base-project-handler-service\\Infra\\Persistence\\Persistence.csproj"
+            "D:\\Prog\\Projetos\\dumbbell-health\\Infra\\Persistence\\Persistence.csproj": {
+              "projectPath": "D:\\Prog\\Projetos\\dumbbell-health\\Infra\\Persistence\\Persistence.csproj"
             }
           }
         }

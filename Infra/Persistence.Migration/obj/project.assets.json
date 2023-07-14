@@ -9802,11 +9802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Prog\\Projetos\\base-project-handler-service\\Infra\\Persistence.Migration\\Persistence.Migration.csproj",
+      "projectUniqueName": "D:\\Prog\\Projetos\\dumbbell-health\\Infra\\Persistence.Migration\\Persistence.Migration.csproj",
       "projectName": "Persistence.Migration",
-      "projectPath": "D:\\Prog\\Projetos\\base-project-handler-service\\Infra\\Persistence.Migration\\Persistence.Migration.csproj",
+      "projectPath": "D:\\Prog\\Projetos\\dumbbell-health\\Infra\\Persistence.Migration\\Persistence.Migration.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "D:\\Prog\\Projetos\\base-project-handler-service\\Infra\\Persistence.Migration\\obj\\",
+      "outputPath": "D:\\Prog\\Projetos\\dumbbell-health\\Infra\\Persistence.Migration\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9823,11 +9823,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Prog\\Projetos\\base-project-handler-service\\Core\\Common\\Common.csproj": {
-              "projectPath": "D:\\Prog\\Projetos\\base-project-handler-service\\Core\\Common\\Common.csproj"
+            "D:\\Prog\\Projetos\\dumbbell-health\\Core\\Common\\Common.csproj": {
+              "projectPath": "D:\\Prog\\Projetos\\dumbbell-health\\Core\\Common\\Common.csproj"
             },
-            "D:\\Prog\\Projetos\\base-project-handler-service\\Infra\\Persistence\\Persistence.csproj": {
-              "projectPath": "D:\\Prog\\Projetos\\base-project-handler-service\\Infra\\Persistence\\Persistence.csproj"
+            "D:\\Prog\\Projetos\\dumbbell-health\\Infra\\Persistence\\Persistence.csproj": {
+              "projectPath": "D:\\Prog\\Projetos\\dumbbell-health\\Infra\\Persistence\\Persistence.csproj"
             }
           }
         }

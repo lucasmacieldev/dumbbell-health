@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Prog\\Projetos\\base-project-handler-service\\Core\\Common\\Common.csproj": {}
+    "D:\\Prog\\Projetos\\dumbbell-health\\Core\\Common\\Common.csproj": {}
   },
   "projects": {
-    "D:\\Prog\\Projetos\\base-project-handler-service\\Core\\Common\\Common.csproj": {
+    "D:\\Prog\\Projetos\\dumbbell-health\\Core\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Prog\\Projetos\\base-project-handler-service\\Core\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\Prog\\Projetos\\dumbbell-health\\Core\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "D:\\Prog\\Projetos\\base-project-handler-service\\Core\\Common\\Common.csproj",
+        "projectPath": "D:\\Prog\\Projetos\\dumbbell-health\\Core\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "D:\\Prog\\Projetos\\base-project-handler-service\\Core\\Common\\obj\\",
+        "outputPath": "D:\\Prog\\Projetos\\dumbbell-health\\Core\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ptH0QT7AkK0BtAyqfFd2v/QbjMEO6h5TZKOHZxV6xodN0M7+C2QiU2yIn3TgYy3gyX5ul/0qsv3xJvojSGHNdA==",
+  "dgSpecHash": "IIPPymoH9mc7k1cx+JHTpBQrBoU9g5dbjSILR0QCCQkY668Mshskh4LzFp3M4+ilDFsXHvR82SNbUmuiECtOTw==",
   "success": true,
-  "projectFilePath": "D:\\Prog\\Projetos\\base-project-handler-service\\Core\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\Prog\\Projetos\\dumbbell-health\\Core\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
